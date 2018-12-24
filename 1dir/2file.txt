@@ -2,8 +2,7 @@ This is adding tedxt by Sivarambranch at 124
 
 Editing manually from GIThub
 Editing manually from GIThub 2nd time at 139
-<<<<<<< HEAD
-Editing manually from GIThub 2nd time at 144
-=======
-Editing manually using sivaram_test1 branch
->>>>>>> sivaram_test1
+Editing manually from GIThub 3rd time at 144
+Editing manually from GIThub 4th time at 157
+
+Editing manually using sivaram_test1 branch 1st time
